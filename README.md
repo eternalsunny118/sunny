@@ -1,0 +1,4 @@
+eternal
+=======
+
+struts project
